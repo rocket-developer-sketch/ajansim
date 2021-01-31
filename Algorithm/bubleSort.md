@@ -101,9 +101,8 @@ O(N * N)으로 표현한다. 즉, N^ 이다.
 선택 같은 경우 모든 원소를 탐색하고 한 번 자리를 바꾸는 연산을 사용한다.  
 그렇기 때문에 실제로 버블이 선택보다 실제 수행시간이 훨씬 느리며, 비효율 적이다.  
 정렬 알고리즘 중에 가장 느린 정렬 알고리즘 이기도 하다.
-
-
-
+  
+[출처] https://www.youtube.com/watch?v=EZN0Irp2aPs&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=3
 
 
 
