@@ -1,2 +1,3 @@
-# WIL
-Weekly I Learn
+# a.jan.sim
+어.잔.심
+: 어쩌다 들어와 잔디심는 저장소
