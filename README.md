@@ -15,3 +15,10 @@
 + algorithm : 대표적인 알고리즘 구현 코드를 정리
 + journal : 오늘 공부했던 것에 대한 느낀점, 기억에 남는 내용, 기억하고 싶은 내용, 실수했던 것 등에 대한 일기
 + math : 알고리즘에 사용되는 수학에 대한 간단한 개념 정리
+
+---------------------------------------------------------------------------------------------------
+
+## 또 다른 REPOSITORY
+[알고리즘 문제 모음]  
+마주쳤던 알고리즘 문제과 그 풀이들을 모아놓은 REPOSITORY  
+https://github.com/rocket-developer-sketch/algorithmQuestions/tree/main/AlgorithmQuestions
