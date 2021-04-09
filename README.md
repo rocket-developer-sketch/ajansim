@@ -22,3 +22,8 @@
 [알고리즘 문제 모음]  
 마주쳤던 알고리즘 문제과 그 풀이들을 모아놓은 REPOSITORY  
 https://github.com/rocket-developer-sketch/algorithmQuestions/tree/main/AlgorithmQuestions
+
+[간단한 텍스트에디터]
+JAVA, SPRING BOOT, THYME LEAF
+JAVA로 작성한 STACK 활용
+https://github.com/rocket-developer-sketch/texteditor
